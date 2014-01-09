@@ -116,3 +116,6 @@ HISTCONTROL=ignoredups:ignorespace
 
 # append to the history file, don't overwrite it
 shopt -s histappend
+export EDITOR=vim
+
+alias vi='vim'
